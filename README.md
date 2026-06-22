@@ -298,6 +298,8 @@ while(alive){
 
    learn();
 
+   music();
+
    build();
 
    improve();
