@@ -288,6 +288,11 @@ Platforms:
 
 # ⚡ Philosophy
 
+<p align="center">
+  <img src="./hoshino-Ai.gif">
+</p>
+
+
 ```java
 while(alive){
 
