@@ -156,7 +156,7 @@ An AI assistant project focused on:
 - Assistant Architecture  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohammedSulthan07/repo/main/Athena.gif">
+  <img src="./Athena.gif">
 </p>
 
 ---
