@@ -161,14 +161,51 @@ An AI assistant project focused on:
 
 ---
 
-## 🎮 Platform Flip
+## 🔐 AI Credit Card Fraud Detection
 
-2D browser game built using:
+Machine Learning system designed to detect fraudulent transactions.
 
-- JavaScript  
-- HTML Canvas  
-- Physics Logic  
-- Game UI Development  
+Built with:
+
+- Python  
+- Machine Learning Models  
+- Data Analysis  
+- Fraud Detection Algorithms  
+- Transaction Pattern Recognition  
+
+Achievements:
+
+- Achieved 92% detection accuracy  
+- Analyzed 25,000+ transaction records  
+- Improved fraud identification efficiency
+
+<p align="center">
+  <img src="./Ai.gif">
+</p>
+
+---
+
+## 👁️ YOLOv8 Safety Eye
+
+Real-time AI powered safety monitoring system.
+
+Built with:
+
+- Python  
+- YOLOv8  
+- Computer Vision  
+- OpenCV  
+- Object Detection Pipeline  
+
+Achievements:
+
+- 90%+ detection accuracy  
+- Processed live video streams at 20+ FPS  
+- Reduced manual monitoring by 70%
+
+<p align="center">
+  <img src="./yolov8.gif">
+</p>
 
 ---
 
