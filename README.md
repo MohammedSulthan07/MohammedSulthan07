@@ -40,6 +40,25 @@ Goal:
 
 ---
 
+---
+##  Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-sulthan-b64b17308/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MohammedSulthan07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:msulthan139@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
 # 💻 Tech Stack
 
 ### Languages
