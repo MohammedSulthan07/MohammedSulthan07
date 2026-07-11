@@ -98,19 +98,24 @@ Goal:
 
 <h1 align="center">📊 GitHub Analytics</h1>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MohammedSulthan07&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=MohammedSulthan07&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedSulthan07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedSulthan07&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedSulthan07&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedSulthan07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="170"
+  />
 </p>
 
 ---
