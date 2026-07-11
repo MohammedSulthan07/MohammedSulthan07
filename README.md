@@ -104,7 +104,7 @@ Goal:
 
 ### Tools & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
@@ -249,28 +249,20 @@ Platforms:
 
 ---
 
-# 🌐 Connect With Me
+<h1 align="center">🌐 Connect With Me</h1>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/mohammed-sulthan-b64b17308/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/mohammed-sulthan-b64b17308/">
+  <a href="https://github.com/MohammedSulthan07" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  </a>
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="https://github.com/MohammedSulthan07">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="mailto:msulthan139@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
-
+  <a href="mailto:msulthan139@gmail.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="50" height="50"/>
+  </a>
 </p>
 
 ---
