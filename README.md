@@ -11,8 +11,7 @@ Backend Developer • Full Stack Builder • AI Enthusiast • Problem Solver
 </p>
 
 ---
-
-# 🚀 About Me
+<h1 align="center">🚀 About Me</h1>
 
 ```yaml
 Name: Mohammed Sulthan G
@@ -41,25 +40,9 @@ Goal:
 ---
 
 ---
-##  Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-sulthan-b64b17308/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MohammedSulthan07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:msulthan139@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"/>
-  </a>
-</p>
+<h1 align="center">💻 Tech Stack</h1>
 
----
-
-# 💻 Tech Stack
 
 ### Languages
 
@@ -113,7 +96,8 @@ Goal:
 
 ---
 
-# 📊 GitHub Analytics
+<h1 align="center">📊 GitHub Analytics</h1>
+
 
 <p align="center">
 
@@ -131,7 +115,8 @@ Goal:
 
 ---
 
-# 🔥 Current Focus
+<h1 align="center">🔥 Current Focus</h1>
+
 
 Currently working on:
 
@@ -143,7 +128,8 @@ Currently working on:
 
 ---
 
-# 🛠 Featured Projects
+<h1 align="center">🛠 Featured Projects</h1>
+
 
 ## 🤖 Athena AI Assistant
 
@@ -219,7 +205,7 @@ Projects involving:
 
 ---
 
-# 🧠 Problem Solving
+<h1 align="center">🧠 Problem Solvin</h1>
 
 Currently practicing:
 
@@ -239,7 +225,8 @@ Platforms:
 
 ---
 
-# 📈 Development Graph
+<h1 align="center">📈 Development Graph</h1>
+
 
 <p align="center">
 
@@ -267,17 +254,15 @@ Platforms:
 
 ---
 
-# 👀 Profile Views
+<h1 align="center">👀 Profile Views</h1>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MohammedSulthan07&color=blueviolet&style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=MohammedSulthan07&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-# ⚡ Philosophy
+<h1 align="center">⚡ Philosophy</h1>
 
 <p align="center">
   <img src="./hoshino-Ai.gif">
@@ -286,35 +271,22 @@ Platforms:
 
 ```java
 while(alive){
-
    learn();
-
    music();
-
    build();
-
    improve();
-
    repeat();
-
 }
 ```
 
 ---
 
-<p align="center">
-
-### Thanks for visiting my profile 🚀
-
-</p>
+<h1 align="center">Thanks for visiting my profile ⭐</h1>
 
 ---
 
-<p align="center">
+<h1 align="center">⭐ If you like my projects, drop a star ⭐</h1>
 
-### ⭐ If you like my projects, drop a star ⭐
-
-</p>
 
 <p align="center">
 
